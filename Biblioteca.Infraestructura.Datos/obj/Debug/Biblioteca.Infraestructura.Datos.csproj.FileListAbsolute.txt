@@ -1,0 +1,35 @@
+F:\UPT\7 Ciclo\SistemaGym\Biblioteca.Infraestructura.Datos\obj\Debug\Biblioteca.Infraestructura.Datos.csprojResolveAssemblyReference.cache
+F:\UPT\7 Ciclo\SistemaGym\Biblioteca.Infraestructura.Datos\obj\Debug\Biblioteca.Infraestructura.Datos.csproj.CoreCompileInputs.cache
+D:\bdii\SistemaGym\Biblioteca.Infraestructura.Datos\bin\Debug\Biblioteca.Infraestructura.Datos.dll.config
+D:\bdii\SistemaGym\Biblioteca.Infraestructura.Datos\bin\Debug\Biblioteca.Infraestructura.Datos.dll
+D:\bdii\SistemaGym\Biblioteca.Infraestructura.Datos\bin\Debug\Biblioteca.Infraestructura.Datos.pdb
+D:\bdii\SistemaGym\Biblioteca.Infraestructura.Datos\bin\Debug\Biblioteca.Dominio.dll
+D:\bdii\SistemaGym\Biblioteca.Infraestructura.Datos\bin\Debug\EntityFramework.dll
+D:\bdii\SistemaGym\Biblioteca.Infraestructura.Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\bdii\SistemaGym\Biblioteca.Infraestructura.Datos\bin\Debug\Biblioteca.Dominio.pdb
+D:\bdii\SistemaGym\Biblioteca.Infraestructura.Datos\bin\Debug\EntityFramework.xml
+D:\bdii\SistemaGym\Biblioteca.Infraestructura.Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\bdii\SistemaGym\Biblioteca.Infraestructura.Datos\obj\Debug\Biblioteca.Infraestructura.Datos.csprojAssemblyReference.cache
+D:\bdii\SistemaGym\Biblioteca.Infraestructura.Datos\obj\Debug\Biblioteca.Infraestructura.Datos.csproj.CoreCompileInputs.cache
+D:\bdii\SistemaGym\Biblioteca.Infraestructura.Datos\obj\Debug\Biblioteca.Infraestructura.Datos.csproj.CopyComplete
+D:\bdii\SistemaGym\Biblioteca.Infraestructura.Datos\obj\Debug\Biblioteca.Infraestructura.Datos.dll
+D:\bdii\SistemaGym\Biblioteca.Infraestructura.Datos\obj\Debug\Biblioteca.Infraestructura.Datos.pdb
+D:\bdii\SistemaGym\Biblioteca.Infraestructura.Datos\obj\Debug\Biblioteca.Infraestructura.Datos.Migrations.BDGYM.resources
+D:\bdii\SistemaGym\Biblioteca.Infraestructura.Datos\obj\Debug\Biblioteca.Infraestructura.Datos.csproj.GenerateResource.cache
+D:\bdii\SistemaGym\Biblioteca.Infraestructura.Datos\obj\Debug\Biblioteca.Infraestructura.Datos.Migrations.BDGYM2.resources
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Biblioteca.Infraestructura.Datos\bin\Debug\Biblioteca.Infraestructura.Datos.dll.config
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Biblioteca.Infraestructura.Datos\bin\Debug\Biblioteca.Infraestructura.Datos.dll
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Biblioteca.Infraestructura.Datos\bin\Debug\Biblioteca.Infraestructura.Datos.pdb
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Biblioteca.Infraestructura.Datos\bin\Debug\Biblioteca.Dominio.dll
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Biblioteca.Infraestructura.Datos\bin\Debug\EntityFramework.dll
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Biblioteca.Infraestructura.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Biblioteca.Infraestructura.Datos\bin\Debug\Biblioteca.Dominio.pdb
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Biblioteca.Infraestructura.Datos\bin\Debug\EntityFramework.xml
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Biblioteca.Infraestructura.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Biblioteca.Infraestructura.Datos\obj\Debug\Biblioteca.Infraestructura.Datos.csprojAssemblyReference.cache
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Biblioteca.Infraestructura.Datos\obj\Debug\Biblioteca.Infraestructura.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Biblioteca.Infraestructura.Datos\obj\Debug\Biblioteca.Infraestructura.Datos.csproj.CopyComplete
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Biblioteca.Infraestructura.Datos\obj\Debug\Biblioteca.Infraestructura.Datos.dll
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Biblioteca.Infraestructura.Datos\obj\Debug\Biblioteca.Infraestructura.Datos.pdb
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Biblioteca.Infraestructura.Datos\obj\Debug\Biblioteca.Infraestructura.Datos.Migrations.InitialMigration.resources
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Biblioteca.Infraestructura.Datos\obj\Debug\Biblioteca.Infraestructura.Datos.csproj.GenerateResource.cache

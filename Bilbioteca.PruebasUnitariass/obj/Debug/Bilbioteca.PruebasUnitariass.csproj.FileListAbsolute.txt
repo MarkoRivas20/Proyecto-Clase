@@ -1,0 +1,17 @@
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Bilbioteca.PruebasUnitariass\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Bilbioteca.PruebasUnitariass\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Bilbioteca.PruebasUnitariass\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Bilbioteca.PruebasUnitariass\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Bilbioteca.PruebasUnitariass\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Bilbioteca.PruebasUnitariass\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Bilbioteca.PruebasUnitariass\bin\Debug\Bilbioteca.PruebasUnitariass.dll
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Bilbioteca.PruebasUnitariass\bin\Debug\Bilbioteca.PruebasUnitariass.pdb
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Bilbioteca.PruebasUnitariass\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Bilbioteca.PruebasUnitariass\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Bilbioteca.PruebasUnitariass\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Bilbioteca.PruebasUnitariass\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Bilbioteca.PruebasUnitariass\obj\Debug\Bilbioteca.PruebasUnitariass.csprojAssemblyReference.cache
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Bilbioteca.PruebasUnitariass\obj\Debug\Bilbioteca.PruebasUnitariass.csproj.CoreCompileInputs.cache
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Bilbioteca.PruebasUnitariass\obj\Debug\Bilbioteca.PruebasUnitariass.csproj.CopyComplete
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Bilbioteca.PruebasUnitariass\obj\Debug\Bilbioteca.PruebasUnitariass.dll
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Bilbioteca.PruebasUnitariass\obj\Debug\Bilbioteca.PruebasUnitariass.pdb

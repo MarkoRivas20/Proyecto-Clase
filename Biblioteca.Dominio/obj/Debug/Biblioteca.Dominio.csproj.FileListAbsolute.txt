@@ -1,0 +1,16 @@
+F:\UPT\7 Ciclo\SistemaGym\Biblioteca.Dominio\bin\Debug\Biblioteca.Dominio.dll
+F:\UPT\7 Ciclo\SistemaGym\Biblioteca.Dominio\bin\Debug\Biblioteca.Dominio.pdb
+F:\UPT\7 Ciclo\SistemaGym\Biblioteca.Dominio\obj\Debug\Biblioteca.Dominio.csprojResolveAssemblyReference.cache
+F:\UPT\7 Ciclo\SistemaGym\Biblioteca.Dominio\obj\Debug\Biblioteca.Dominio.csproj.CoreCompileInputs.cache
+F:\UPT\7 Ciclo\SistemaGym\Biblioteca.Dominio\obj\Debug\Biblioteca.Dominio.dll
+F:\UPT\7 Ciclo\SistemaGym\Biblioteca.Dominio\obj\Debug\Biblioteca.Dominio.pdb
+D:\bdii\SistemaGym\Biblioteca.Dominio\bin\Debug\Biblioteca.Dominio.dll
+D:\bdii\SistemaGym\Biblioteca.Dominio\bin\Debug\Biblioteca.Dominio.pdb
+D:\bdii\SistemaGym\Biblioteca.Dominio\obj\Debug\Biblioteca.Dominio.csproj.CoreCompileInputs.cache
+D:\bdii\SistemaGym\Biblioteca.Dominio\obj\Debug\Biblioteca.Dominio.dll
+D:\bdii\SistemaGym\Biblioteca.Dominio\obj\Debug\Biblioteca.Dominio.pdb
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Biblioteca.Dominio\bin\Debug\Biblioteca.Dominio.dll
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Biblioteca.Dominio\bin\Debug\Biblioteca.Dominio.pdb
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Biblioteca.Dominio\obj\Debug\Biblioteca.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Biblioteca.Dominio\obj\Debug\Biblioteca.Dominio.dll
+C:\Users\Yofer Nain\Downloads\SistemaGym-master\Biblioteca.Dominio\obj\Debug\Biblioteca.Dominio.pdb
